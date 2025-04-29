@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "滲透測試及紅隊演練/3.網頁攻擊手法/Command Injection.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command Injection"
+              "title": "README"
             }
           }
         ]
@@ -167,6 +167,12 @@
   },
   "active": "6eeaa09a3bae5916",
   "lastOpenFiles": [
+    "公開情資蒐集 OSINT/README.md",
+    "系統維護及網路管理/README.md",
+    "社交工程學/README.md",
+    "威脅獵殺/README.md",
+    "情報學/README.md",
+    "滲透測試及紅隊演練/3.網頁攻擊手法/Command Injection.md",
     "情報學",
     "滲透測試及紅隊演練/3.網頁攻擊手法/Attacking Authentication Mechanisms.md",
     "滲透測試及紅隊演練/3.網頁攻擊手法/列舉手法.md",
@@ -178,7 +184,6 @@
     "滲透測試及紅隊演練/3.網頁攻擊手法/Injection Attack.md",
     "滲透測試及紅隊演練/3.網頁攻擊手法/File Upload Vulnerabilities.md",
     "滲透測試及紅隊演練/3.網頁攻擊手法/Directory Traversal.md",
-    "滲透測試及紅隊演練/3.網頁攻擊手法/Command Injection.md",
     "課程筆記/MTIA-Certified Threat Intelligence Analyst/1. Quickstarter.md",
     "社交工程學",
     "威型情資/CTI工具",
@@ -206,11 +211,6 @@
     "0.前言/image",
     "新增資料夾",
     "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter",
-    "威脅獵殺",
-    "滲透測試及紅隊演練/9.Windows 提權手法/列舉方式.md",
-    "滲透測試及紅隊演練/8.Linux提權手法/提權手法.md",
-    "滲透測試及紅隊演練/8.Linux提權手法/密碼匿藏位置.md",
-    "滲透測試及紅隊演練/8.Linux提權手法/列舉方式.md",
-    "滲透測試及紅隊演練/3.網頁攻擊手法/Remote File Inclusion (RFI).md"
+    "滲透測試及紅隊演練/9.Windows 提權手法/列舉方式.md"
   ]
 }
