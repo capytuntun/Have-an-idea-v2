@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "4f398e282779b656",
+    "type": "split",
+    "children": [
+      {
+        "id": "34aefe2b56313ca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26c36f5113ad0612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "滲透測試及紅隊演練/3.網頁攻擊手法/Command Injection.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Command Injection"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d0ba54f13ab7853",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3f19ef1adee84af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eeaa09a3bae5916",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8816b9ff7be61327",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c770ef9dc64c6617",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "420b05c6597cd1eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab5e31dd28d76de0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53e114dc58fecab6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0ccb789b01892b62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d3fd4acce5910fb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "546c0b255166b507",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6eeaa09a3bae5916",
+  "lastOpenFiles": [
+    "情報學",
+    "滲透測試及紅隊演練/3.網頁攻擊手法/Attacking Authentication Mechanisms.md",
+    "滲透測試及紅隊演練/3.網頁攻擊手法/列舉手法.md",
+    "滲透測試及紅隊演練/1.前期情蒐/DNS 偵蒐.md",
+    "程式設計/Python 筆記.md",
+    "程式設計/C Sharp 筆記.md",
+    "0.前言/編輯前言.md",
+    "滲透測試及紅隊演練/3.網頁攻擊手法/Local File Include(LFI).md",
+    "滲透測試及紅隊演練/3.網頁攻擊手法/Injection Attack.md",
+    "滲透測試及紅隊演練/3.網頁攻擊手法/File Upload Vulnerabilities.md",
+    "滲透測試及紅隊演練/3.網頁攻擊手法/Directory Traversal.md",
+    "滲透測試及紅隊演練/3.網頁攻擊手法/Command Injection.md",
+    "課程筆記/MTIA-Certified Threat Intelligence Analyst/1. Quickstarter.md",
+    "社交工程學",
+    "威型情資/CTI工具",
+    "滲透測試及紅隊演練/2.列舉與掃描及攻擊手法/埠位掃描.md",
+    "滲透測試及紅隊演練/2.列舉與掃描及攻擊手法/弱掃.md",
+    "滲透測試及紅隊演練/2.列舉與掃描及攻擊手法/服務列舉.md",
+    "程式設計/C Sharp/2. C Sharp Web Development.md",
+    "程式設計/C Sharp/1. 基礎語法.md",
+    "程式設計/C Sharp",
+    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/2. Use dnsdumpster.com to passively map an organization's external facing assets.md",
+    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/1. Detect typo squatting and phishing with dnstwist.py.md",
+    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/3. Use shodan.io to passively map an organization's external facing assets.md",
+    "0.前言/attachments/Pasted image 20250419172605.png",
+    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/Untitled",
+    "0.前言/attachments/螢幕擷取畫面 2025-04-19 152202.png",
+    "0.前言/attachments/Pasted image 20250419153653.png",
+    "0.前言/attachments/Pasted image 20250419153313.png",
+    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/attachments/螢幕擷取畫面 2025-04-19 152202.png",
+    "0.前言/attachments",
+    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/attachments/Pasted image 20250419153653.png",
+    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/attachments/Pasted image 20250419153313.png",
+    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/attachments",
+    "螢幕擷取畫面 2025-04-19 152202.png",
+    "Pasted image 20250419152204.png",
+    "0.前言/image",
+    "新增資料夾",
+    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter",
+    "威脅獵殺",
+    "滲透測試及紅隊演練/9.Windows 提權手法/列舉方式.md",
+    "滲透測試及紅隊演練/8.Linux提權手法/提權手法.md",
+    "滲透測試及紅隊演練/8.Linux提權手法/密碼匿藏位置.md",
+    "滲透測試及紅隊演練/8.Linux提權手法/列舉方式.md",
+    "滲透測試及紅隊演練/3.網頁攻擊手法/Remote File Inclusion (RFI).md"
+  ]
+}
