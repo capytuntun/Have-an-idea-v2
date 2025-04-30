@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.前言/2. 資料來源.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 資料來源"
+              "title": "README"
             }
           }
         ]
@@ -167,9 +167,9 @@
   },
   "active": "26c36f5113ad0612",
   "lastOpenFiles": [
-    "README.md",
-    "0.前言/2. 資料來源.md",
     "0.前言/1. 編輯前言.md",
+    "0.前言/2. 資料來源.md",
+    "README.md",
     "Untitled",
     "Have-an-idea.zip",
     "公開情資蒐集 OSINT/README.md",
