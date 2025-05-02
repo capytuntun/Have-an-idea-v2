@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "滲透測試及紅隊演練/12.指令速查手冊/資料傳輸相關.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "資料傳輸相關"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "420b05c6597cd1eb",
@@ -157,60 +157,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
     }
   },
   "active": "26c36f5113ad0612",
   "lastOpenFiles": [
-    "0.前言/1. 編輯前言.md",
-    "0.前言/2. 資料來源.md",
-    "README.md",
+    "滲透測試及紅隊演練/12.指令速查手冊/密碼相關.md",
+    "滲透測試及紅隊演練/12.指令速查手冊/資料傳輸相關.md",
+    "滲透測試及紅隊演練/12.指令速查手冊/Windows 指令速查.md",
+    "滲透測試及紅隊演練/12.指令速查手冊/常用工具指令速查.md",
+    "滲透測試及紅隊演練/12.指令速查手冊/Linux 指令速查.md",
+    "滲透測試及紅隊演練/12.指令速查手冊/Shell 相關指令速查.md",
+    "滲透測試及紅隊演練/11.Active Directory列舉及攻擊手法/橫移手法.md",
+    "滲透測試及紅隊演練/12.指令速查手冊/README.md",
+    "滲透測試及紅隊演練/11.Active Directory列舉及攻擊手法/攻擊手法.md",
+    "滲透測試及紅隊演練/11.Active Directory列舉及攻擊手法/AD的ACL利用.md",
+    "滲透測試及紅隊演練/11.Active Directory列舉及攻擊手法/列舉手法.md",
+    "滲透測試及紅隊演練/11.Active Directory列舉及攻擊手法/內網偵蒐.md",
+    "滲透測試及紅隊演練/10.Port Redirection and SSH Tunneling/Other Tools.md",
+    "滲透測試及紅隊演練/11.Active Directory列舉及攻擊手法/README.md",
+    "滲透測試及紅隊演練/10.Port Redirection and SSH Tunneling/SSH.md",
+    "滲透測試及紅隊演練/10.Port Redirection and SSH Tunneling/Chisel.md",
+    "滲透測試及紅隊演練/10.Port Redirection and SSH Tunneling/Ligolo-ng.md",
+    "滲透測試及紅隊演練/09.Windows 提權手法/提權相關手法.md",
+    "滲透測試及紅隊演練/09.Windows 提權手法/Attacking the OS 小節重點.md",
+    "滲透測試及紅隊演練/09.Windows 提權手法/利用Windows Group提權.md",
+    "滲透測試及紅隊演練/09.Windows 提權手法/利用User Privileges提權.md",
+    "滲透測試及紅隊演練/09.Windows 提權手法/搜尋技巧及機敏資料位置.md",
+    "滲透測試及紅隊演練/09.Windows 提權手法/列舉方式.md",
+    "滲透測試及紅隊演練/08.Linux提權手法/修改開機啟動服務.md",
+    "滲透測試及紅隊演練/08.Linux提權手法/PATH Injection.md",
+    "滲透測試及紅隊演練/08.Linux提權手法/NFS Root Squashing.md",
+    "滲透測試及紅隊演練/08.Linux提權手法/提權手法",
+    "滲透測試及紅隊演練/01.前期情蒐/未命名",
+    "0.前言/attachments/Pasted image 20250419153313.png",
+    "0.前言/attachments/螢幕擷取畫面 2025-04-19 152202.png",
     "Untitled",
     "Have-an-idea.zip",
-    "公開情資蒐集 OSINT/README.md",
-    "系統維護及網路管理/README.md",
-    "社交工程學/README.md",
-    "威脅獵殺/README.md",
-    "情報學/README.md",
-    "滲透測試及紅隊演練/3.網頁攻擊手法/Command Injection.md",
     "情報學",
-    "滲透測試及紅隊演練/3.網頁攻擊手法/Attacking Authentication Mechanisms.md",
-    "滲透測試及紅隊演練/3.網頁攻擊手法/列舉手法.md",
-    "滲透測試及紅隊演練/1.前期情蒐/DNS 偵蒐.md",
-    "程式設計/Python 筆記.md",
-    "程式設計/C Sharp 筆記.md",
-    "滲透測試及紅隊演練/3.網頁攻擊手法/Local File Include(LFI).md",
-    "滲透測試及紅隊演練/3.網頁攻擊手法/Injection Attack.md",
-    "滲透測試及紅隊演練/3.網頁攻擊手法/File Upload Vulnerabilities.md",
-    "滲透測試及紅隊演練/3.網頁攻擊手法/Directory Traversal.md",
-    "課程筆記/MTIA-Certified Threat Intelligence Analyst/1. Quickstarter.md",
     "社交工程學",
     "威型情資/CTI工具",
-    "滲透測試及紅隊演練/2.列舉與掃描及攻擊手法/埠位掃描.md",
-    "滲透測試及紅隊演練/2.列舉與掃描及攻擊手法/弱掃.md",
-    "滲透測試及紅隊演練/2.列舉與掃描及攻擊手法/服務列舉.md",
-    "程式設計/C Sharp/2. C Sharp Web Development.md",
-    "程式設計/C Sharp/1. 基礎語法.md",
     "程式設計/C Sharp",
-    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/2. Use dnsdumpster.com to passively map an organization's external facing assets.md",
-    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/1. Detect typo squatting and phishing with dnstwist.py.md",
     "0.前言/attachments/Pasted image 20250419172605.png",
     "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/Untitled",
-    "0.前言/attachments/螢幕擷取畫面 2025-04-19 152202.png",
     "0.前言/attachments/Pasted image 20250419153653.png",
-    "0.前言/attachments/Pasted image 20250419153313.png",
     "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/attachments/螢幕擷取畫面 2025-04-19 152202.png",
     "0.前言/attachments",
     "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/attachments/Pasted image 20250419153653.png",
     "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/attachments/Pasted image 20250419153313.png",
-    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/attachments",
     "螢幕擷取畫面 2025-04-19 152202.png",
-    "Pasted image 20250419152204.png",
-    "0.前言/image"
+    "Pasted image 20250419152204.png"
   ]
 }
