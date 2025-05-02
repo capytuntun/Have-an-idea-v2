@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0.前言/2. 資料來源.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2. 資料來源"
             }
           }
         ]
@@ -167,6 +167,8 @@
   },
   "active": "26c36f5113ad0612",
   "lastOpenFiles": [
+    "0.前言/1. 編輯前言.md",
+    "README.md",
     "威脅情資/22.Cyber Counterintelligence/README.md.md",
     "威脅情資/21.Policies, Procedures and Methodologies/README.md.md",
     "威脅情資/20.Reporting/README.md.md",
@@ -201,8 +203,6 @@
     "威脅情資/15.Monitor New Threats and Vulnerabilities",
     "威脅情資/14.Harnessing Threat Feeds",
     "威脅情資/13.Pivot Analysis",
-    "README.md",
-    "滲透測試及紅隊演練/12.指令速查手冊/資料傳輸相關.md",
     "0.前言/attachments/Pasted image 20250419153313.png",
     "0.前言/attachments/螢幕擷取畫面 2025-04-19 152202.png",
     "0.前言/attachments/Pasted image 20250419172605.png",
