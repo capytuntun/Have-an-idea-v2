@@ -4,21 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "34aefe2b56313ca4",
+        "id": "1394bcdc40e6379c",
         "type": "tabs",
+        "dimension": 12.050000000000004,
         "children": [
           {
-            "id": "26c36f5113ad0612",
+            "id": "d483a08babafae60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "滲透測試及紅隊演練/03.網頁攻擊手法/Command Injection.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Command Injection 的大綱"
+            }
+          }
+        ]
+      },
+      {
+        "id": "90ce2387e2afe1f4",
+        "type": "tabs",
+        "dimension": 87.94999999999999,
+        "children": [
+          {
+            "id": "d5f46d9fdaa502f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "滲透測試及紅隊演練/03.網頁攻擊手法/Command Injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Command Injection"
             }
           }
         ]
@@ -78,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 247.5
   },
   "right": {
     "id": "420b05c6597cd1eb",
@@ -165,8 +188,38 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6eeaa09a3bae5916",
+  "active": "d5f46d9fdaa502f4",
   "lastOpenFiles": [
+    "滲透測試及紅隊演練/03.網頁攻擊手法/File Upload Vulnerabilities.md",
+    "滲透測試及紅隊演練/03.網頁攻擊手法/File Inclusion Vulnerabilities.md",
+    "0.前言/attachments/Pasted image 20250504090435.png",
+    "0.前言/attachments/Pasted image 20250504090416.png",
+    "滲透測試及紅隊演練/03.網頁攻擊手法/Directory Traversal.md",
+    "滲透測試及紅隊演練/03.網頁攻擊手法/Command Injection.md",
+    "滲透測試及紅隊演練/03.網頁攻擊手法/Attacking Authentication Mechanisms.md",
+    "滲透測試及紅隊演練/03.網頁攻擊手法/列舉手法.md",
+    "0.前言/attachments/Pasted image 20250504085521.png",
+    "0.前言/attachments/Pasted image 20250504084135.png",
+    "0.前言/attachments/Pasted image 20250504083306.png",
+    "0.前言/attachments/Pasted image 20250504083248.png",
+    "0.前言/attachments/Pasted image 20250504083155.png",
+    "滲透測試及紅隊演練/02.列舉與掃描及攻擊手法/服務列舉.md",
+    "滲透測試及紅隊演練/01.前期情蒐/被動情蒐技術.md",
+    "滲透測試及紅隊演練/01.前期情蒐/主動情蒐技術.md",
+    "滲透測試及紅隊演練/02.列舉與掃描及攻擊手法/弱掃.md",
+    "0.前言/attachments/Pasted image 20250503185339.png",
+    "滲透測試及紅隊演練/02.列舉與掃描及攻擊手法/埠位掃描.md",
+    "0.前言/2. 資料來源.md",
+    "程式設計/C Sharp 筆記.md",
+    "0.前言/attachments/Pasted image 20250503131736.png",
+    "0.前言/attachments/Pasted image 20250503121424.png",
+    "滲透測試及紅隊演練/01.前期情蒐/被動情蒐/Google Hacking.md",
+    "滲透測試及紅隊演練/01.前期情蒐/被動情蒐/Intro.md",
+    "滲透測試及紅隊演練/01.前期情蒐/被動情蒐/DNS 偵蒐.md",
+    "滲透測試及紅隊演練/01.前期情蒐/主動情蒐/Security Headers and SSL Tools.md",
+    "滲透測試及紅隊演練/01.前期情蒐/主動情蒐",
+    "滲透測試及紅隊演練/01.前期情蒐/被動情蒐",
+    "README.md",
     "威脅情資/實驗篇/21.Policies, Procedures and Methodologies/README.md.md",
     "威脅情資/實驗篇/21.Policies, Procedures and Methodologies",
     "威脅情資/實驗篇/20.Reporting/README.md.md",
@@ -182,35 +235,6 @@
     "威脅情資/實驗篇/15.Monitor New Threats and Vulnerabilities/README.md.md",
     "威脅情資/實驗篇/15.Monitor New Threats and Vulnerabilities",
     "威脅情資/實驗篇/14.Harnessing Threat Feeds/README.md.md",
-    "威脅情資/實驗篇/14.Harnessing Threat Feeds",
-    "威脅情資/實驗篇/13.Pivot Analysis/README.md.md",
-    "威脅情資/實驗篇/13.Pivot Analysis",
-    "威脅情資/實驗篇/12.Situational Awareness/README.md.md",
-    "威脅情資/實驗篇/12.Situational Awareness",
-    "威脅情資/實驗篇/11.Threat Hunting with GRR Rapid Response/README.md.md",
-    "威脅情資/實驗篇/10.Threat Hunting with Velociraptor/README.md.md",
-    "威脅情資/實驗篇/09.Threat Hunting with Pandas/README.md.md",
-    "威脅情資/實驗篇/08.Threat Hunting with YARA/README.md.md",
-    "威脅情資/實驗篇/07.Windows Forensics/README.md.md",
-    "威脅情資/實驗篇/06.Network Forensics/README.md.md",
-    "威脅情資/實驗篇/05.Memory Forensics/README.md.md",
-    "威脅情資/實驗篇/04.File and Executable Forensics/README.md.md",
-    "威脅情資/實驗篇/03.Binary Classification/README.md.md",
-    "威脅情資/實驗篇/02.Internal Logs Sources/README.md.md",
-    "威脅情資/實驗篇/01.Open-Source Intelligence/README.md.md",
-    "威脅情資/實驗篇/00.實驗環境/README.md.md",
-    "威脅情資/實驗篇/22.Cyber Counterintelligence/README.md.md",
-    "0.前言/2. 資料來源.md",
-    "0.前言/1. 編輯前言.md",
-    "README.md",
-    "0.前言/attachments/Pasted image 20250419153313.png",
-    "0.前言/attachments/螢幕擷取畫面 2025-04-19 152202.png",
-    "0.前言/attachments/Pasted image 20250419172605.png",
-    "0.前言/attachments/Pasted image 20250419153653.png",
-    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/attachments/螢幕擷取畫面 2025-04-19 152202.png",
-    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/attachments/Pasted image 20250419153653.png",
-    "課程筆記/MTIA-Certified Threat Intelligence Analyst/Quickstarter/attachments/Pasted image 20250419153313.png",
-    "螢幕擷取畫面 2025-04-19 152202.png",
-    "Pasted image 20250419152204.png"
+    "威脅情資/實驗篇/14.Harnessing Threat Feeds"
   ]
 }
