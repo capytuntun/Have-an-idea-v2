@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/03.服務列舉.md",
+                "file": "網路滲透技術/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03.服務列舉"
+              "title": "Outline of README"
             },
             "group": "ba09330ffbb818fa"
           }
@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/03.服務列舉.md",
+                "file": "網路滲透技術/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.服務列舉"
+              "title": "README"
             },
             "group": "ba09330ffbb818fa"
           }
@@ -195,9 +195,11 @@
   },
   "active": "992d6fffb8e95564",
   "lastOpenFiles": [
+    "README.md",
+    "網路滲透技術/README.md",
+    "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/03.服務列舉.md",
     "網路滲透技術/03.網頁攻擊手法/01.網頁列舉手法.md",
     "網路滲透技術/03.網頁攻擊手法/README.md",
-    "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/03.服務列舉.md",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/02.掃描工具.md",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/01.使用Nmap.md",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/README.md",
@@ -213,7 +215,6 @@
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/images/Pasted image 20250525034755.png",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/images/Pasted image 20250525034744.png",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/images",
-    "網路滲透技術/README.md",
     "網路滲透技術/04.常見系統與服務攻擊手法/README.md",
     "網路滲透技術/04.常見系統與服務攻擊手法",
     "網路滲透技術/04.常見系統漏洞利用/README.md",
@@ -227,7 +228,6 @@
     "網路滲透技術/09.Port Redirection and Tunneling/README.md",
     "網路滲透技術/10.Metasploit框架/README.md",
     "網路滲透技術/11.Active Directory列舉及攻擊手法/README.md",
-    "README.md",
     "網路滲透技術/11.Active Directory列舉及攻擊手法",
     "網路滲透技術/Untitled/Untitled",
     "網路滲透技術/02.系統弱掃/README.md",
