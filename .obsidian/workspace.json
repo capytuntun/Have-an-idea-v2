@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "網路滲透技術/README.md",
+                "file": "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/03.服務列舉.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 03.服務列舉"
             },
             "group": "ba09330ffbb818fa"
           }
@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "網路滲透技術/README.md",
-                "mode": "preview",
+                "file": "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/03.服務列舉.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "03.服務列舉"
             },
             "group": "ba09330ffbb818fa"
           }
@@ -195,13 +195,14 @@
   },
   "active": "992d6fffb8e95564",
   "lastOpenFiles": [
-    "README.md",
+    "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/02.掃描工具.md",
+    "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/01.使用Nmap.md",
+    "網路滲透技術/01.前期情蒐與系統列舉/01.被動情蒐手法/01. DNS資訊蒐集.md",
     "網路滲透技術/README.md",
+    "README.md",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/03.服務列舉.md",
     "網路滲透技術/03.網頁攻擊手法/01.網頁列舉手法.md",
     "網路滲透技術/03.網頁攻擊手法/README.md",
-    "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/02.掃描工具.md",
-    "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/01.使用Nmap.md",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/README.md",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/images/Pasted_image_20250525044547.png",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/images/Pasted_image_20250525044226.png",
@@ -235,7 +236,6 @@
     "網路滲透技術/09.Port Redirection and Tunneling",
     "網路滲透技術/08.Linux提權",
     "網路滲透技術/07.Windows提權",
-    "網路滲透技術/01.前期情蒐與系統列舉/01.被動情蒐手法/01. DNS資訊蒐集.md",
     "網路滲透技術/01.前期情蒐與系統列舉/01.被動情蒐手法/03. Security Headers.md",
     "網路滲透技術/01.前期情蒐與系統列舉/01.被動情蒐手法/02. 網路空間搜索引擎.md",
     "網路滲透技術/01.前期情蒐與系統列舉/01.被動情蒐手法/README.md",
