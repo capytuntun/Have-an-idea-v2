@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "網路滲透技術/01.前期情蒐/README.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "網路滲透技術/01.前期情蒐/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -79,7 +79,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "滲透技術/01.前期情蒐/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,12 +195,18 @@
   },
   "active": "b08cf9855a391fc3",
   "lastOpenFiles": [
+    "網路滲透技術/README.md",
+    "網路滲透技術/01.前期情蒐/01.被動情蒐手法/03. Security Headers.md",
+    "網路滲透技術/01.前期情蒐/01.被動情蒐手法/02. 網路空間搜索引擎.md",
+    "網路滲透技術/01.前期情蒐/01.被動情蒐手法/01. DNS資訊蒐集.md",
+    "網路滲透技術/01.前期情蒐/01.被動情蒐手法/README.md",
+    "網路滲透技術/01.前期情蒐/02.主動情搜手法/README.md",
+    "網路滲透技術/01.前期情蒐/README.md",
+    "2025-05-25.md",
+    "網路滲透技術/01.前期情蒐/01.被動情蒐手法/被動情蒐手法.md",
+    "Untitled.canvas",
     "網路滲透技術/01.前期情蒐/02.主動情搜手法/01.使用Nmap列舉.md",
     "README.md",
-    "網路滲透技術/01.前期情蒐/02.主動情搜手法/README.md",
-    "網路滲透技術/01.前期情蒐/01.被動情蒐手法/README.md",
-    "網路滲透技術/01.前期情蒐/README.md",
-    "網路滲透技術/README.md",
     "網路滲透技術/01.前期情蒐/01.被動情蒐手法",
     "網路滲透技術/01.前期情蒐/02.主動情搜手法",
     "網路滲透技術/01.前期情蒐",
