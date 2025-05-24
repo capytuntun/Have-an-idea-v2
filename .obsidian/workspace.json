@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "網路滲透技術/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "網路滲透技術/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "網路滲透技術/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,21 +195,39 @@
   },
   "active": "b08cf9855a391fc3",
   "lastOpenFiles": [
+    "網路滲透技術/04.常見系統與服務攻擊手法/README.md",
+    "網路滲透技術/04.常見系統與服務攻擊手法",
+    "網路滲透技術/04.常見系統漏洞利用/README.md",
+    "網路滲透技術/04.常見系統漏洞利用",
+    "網路滲透技術/新增資料夾",
+    "網路滲透技術/03.網頁攻擊手法/README.md",
+    "網路滲透技術/04.漏洞利用/README.md",
+    "網路滲透技術/05.防毒軟體繞過/README.md",
+    "網路滲透技術/06.密碼攻擊/README.md",
+    "網路滲透技術/07.Windows提權/README.md",
+    "網路滲透技術/08.Linux提權/README.md",
+    "網路滲透技術/09.Port Redirection and Tunneling/README.md",
+    "網路滲透技術/10.Metasploit框架/README.md",
+    "網路滲透技術/11.Active Directory列舉及攻擊手法/README.md",
+    "README.md",
     "網路滲透技術/README.md",
-    "網路滲透技術/01.前期情蒐/01.被動情蒐手法/03. Security Headers.md",
-    "網路滲透技術/01.前期情蒐/01.被動情蒐手法/02. 網路空間搜索引擎.md",
-    "網路滲透技術/01.前期情蒐/01.被動情蒐手法/01. DNS資訊蒐集.md",
-    "網路滲透技術/01.前期情蒐/01.被動情蒐手法/README.md",
-    "網路滲透技術/01.前期情蒐/02.主動情搜手法/README.md",
-    "網路滲透技術/01.前期情蒐/README.md",
+    "網路滲透技術/11.Active Directory列舉及攻擊手法",
+    "網路滲透技術/Untitled/Untitled",
+    "網路滲透技術/02.系統弱掃/README.md",
+    "網路滲透技術/10.Metasploit框架",
+    "網路滲透技術/09.Port Redirection and Tunneling",
+    "網路滲透技術/08.Linux提權",
+    "網路滲透技術/07.Windows提權",
+    "網路滲透技術/06.密碼攻擊",
+    "網路滲透技術/01.前期情蒐與系統列舉/01.被動情蒐手法/01. DNS資訊蒐集.md",
+    "網路滲透技術/01.前期情蒐與系統列舉/01.被動情蒐手法/03. Security Headers.md",
+    "網路滲透技術/01.前期情蒐與系統列舉/01.被動情蒐手法/02. 網路空間搜索引擎.md",
+    "網路滲透技術/01.前期情蒐與系統列舉/01.被動情蒐手法/README.md",
+    "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/README.md",
+    "網路滲透技術/01.前期情蒐與系統列舉/README.md",
     "2025-05-25.md",
     "網路滲透技術/01.前期情蒐/01.被動情蒐手法/被動情蒐手法.md",
     "Untitled.canvas",
-    "網路滲透技術/01.前期情蒐/02.主動情搜手法/01.使用Nmap列舉.md",
-    "README.md",
-    "網路滲透技術/01.前期情蒐/01.被動情蒐手法",
-    "網路滲透技術/01.前期情蒐/02.主動情搜手法",
-    "網路滲透技術/01.前期情蒐",
-    "網路滲透技術"
+    "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/01.使用Nmap列舉.md"
   ]
 }
