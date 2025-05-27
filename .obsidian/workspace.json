@@ -6,7 +6,7 @@
       {
         "id": "4f82aa2e13ef3c00",
         "type": "tabs",
-        "dimension": 15.538847117794484,
+        "dimension": 17.167919799498748,
         "children": [
           {
             "id": "bd25724df92d9c43",
@@ -14,38 +14,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Python/Flask/10.Flask-JWT.md",
+                "file": "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/03.服務列舉.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10.Flask-JWT"
+              "title": "Outline of 03.服務列舉"
             }
           }
         ]
       },
       {
-        "id": "c87fcdec19c10ddd",
+        "id": "c49758c77c105b48",
         "type": "tabs",
-        "dimension": 84.46115288220551,
+        "dimension": 82.83208020050125,
         "children": [
           {
-            "id": "72b6f808198ea803",
+            "id": "b8dd0b9c8bef1080",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "程式語言/Python/Flask/09.flask_sqlalchemy.md",
-=======
-                "file": "程式語言/Python/Flask/10.Flask-JWT.md",
->>>>>>> cfccb19 (新增Flask-JWT)
+                "file": "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/03.服務列舉.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.Flask-JWT"
+              "title": "03.服務列舉"
             }
           }
         ]
@@ -195,17 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72b6f808198ea803",
+  "active": "b8dd0b9c8bef1080",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "README.md",
-    "程式語言/Python/Flask/09.flask_sqlalchemy.md",
-=======
-    "程式語言/Python/Flask/09.flask_sqlalchemy.md",
+    "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/images/Pasted image 20250528054015.png",
     "程式語言/Python/Flask/10.Flask-JWT.md",
+    "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/03.服務列舉.md",
+    "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/02.掃描工具.md",
+    "程式語言/Python/Flask/09.flask_sqlalchemy.md",
+    "程式語言/Python/Flask/01.Flask基礎語法.md",
+    "程式語言/Python/Flask/images/Pasted_image_20250527223807.png",
     "程式語言/Python/Flask/images/Pasted image 20250527223807.png",
     "程式語言/Python/Flask/images",
->>>>>>> cfccb19 (新增Flask-JWT)
     "程式語言/Python/06.Python網路爬蟲/README.md",
     "程式語言/Python/05.Python網路程式設計/README.md",
     "程式語言/Python/04.Python資料處理/README.md",
@@ -220,7 +216,6 @@
     "程式語言/Python/02.Python物件導向",
     "程式語言/Python/01.Python基礎語法",
     "程式語言/Python/Python基礎語法",
-    "程式語言/Python/Flask/01.Flask基礎語法.md",
     "網路滲透技術/02.系統弱掃/README.md",
     "程式語言/Python/Flask/README.md",
     "程式語言/Python/Flask/flask_sqlalchemy/README.md",
@@ -231,8 +226,6 @@
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/README.md",
     "網路滲透技術/01.前期情蒐與系統列舉/README.md",
     "網路滲透技術/README.md",
-    "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/03.服務列舉.md",
-    "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/02.掃描工具.md",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/images/Pasted_image_2025052522174444.png",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/images/Pasted image 2025052522174444.png",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/images/Pasted_image_20250525221742.png",
@@ -241,10 +234,10 @@
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/images/Pasted_image_20250525221735.png",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/images/Pasted_image_20250525221719.png",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/images/Pasted image 20250525221742.png",
-    "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/images/Pasted image 20250525221735.png",
     "網路滲透技術/01.前期情蒐與系統列舉/02.主動情搜與列舉手法/01.使用Nmap.md",
     "網路滲透技術/01.前期情蒐與系統列舉/01.被動情蒐手法/03. Security Headers.md",
     "網路滲透技術/01.前期情蒐與系統列舉/01.被動情蒐手法/01. DNS資訊蒐集.md",
+    "README.md",
     "網路滲透技術/03.網頁攻擊手法/01.網頁列舉手法.md",
     "Untitled.canvas"
   ]
