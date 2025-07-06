@@ -6,16 +6,45 @@
       {
         "id": "4332fc1dd1ecaaab",
         "type": "tabs",
+        "dimension": 16.053299492385786,
+        "children": [
+          {
+            "id": "41d5f0bbe28e13ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "程式語言/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            },
+            "group": "3647172b645936c7"
+          }
+        ]
+      },
+      {
+        "id": "348c8ebb6bd77968",
+        "type": "tabs",
+        "dimension": 83.94670050761421,
         "children": [
           {
             "id": "53a11e9d7385e0d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/README.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
+              "title": "README"
+            },
+            "group": "3647172b645936c7"
           }
         ]
       }
@@ -90,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程式語言/Python/07.Flask網頁框架/01.Flask基礎語法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 01.Flask基礎語法"
             }
           },
           {
@@ -108,11 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程式語言/Python/07.Flask網頁框架/01.Flask基礎語法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 01.Flask基礎語法"
             }
           },
           {
@@ -136,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "程式語言/Python/07.Flask網頁框架/01.Flask基礎語法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 01.Flask基礎語法"
             }
           }
         ]
@@ -161,6 +193,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53a11e9d7385e0d4",
-  "lastOpenFiles": []
+  "active": "0f3a07f76ef92693",
+  "lastOpenFiles": [
+    "高中數學複習/readme.md.md",
+    "人工智慧/01.人工智慧簡介",
+    "程式語言/Python/07.Flask網頁框架/01.Flask基礎語法.md",
+    "高中數學複習",
+    "人工智慧",
+    "程式語言/Python/08.Python網路程式設計/readme.md.md",
+    "程式語言/Python/08.Python網路程式設計"
+  ]
 }
